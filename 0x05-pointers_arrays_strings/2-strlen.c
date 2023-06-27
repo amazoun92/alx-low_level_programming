@@ -1,6 +1,6 @@
 /*
  * File : 2-strlen.c
- * Auth: Amazoun
+ * Auth: Abdessamad El Fathi
  */
 
 /**
